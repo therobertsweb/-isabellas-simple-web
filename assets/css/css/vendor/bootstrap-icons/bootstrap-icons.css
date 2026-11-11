@@ -1,0 +1,178 @@
+/* !
+ * Bootstrap Icons v1.13.1 (https://icons.getbootstrap.com/)
+ * Copyright 2019-2024 The Bootstrap Authors
+ * Licensed under MIT (https://github.com/twbs/icons/blob/main/LICENSE) */
+
+.bi::before, [class^="bi-"]::before, [class*=" bi-"]::before {
+  display: inline-block;
+  font-family: bootstrap-icons !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  vertical-align: -.125em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bi-arrow-right::before {
+  content: "\f138";
+}
+
+.bi-arrow-up-short::before {
+  content: "\f145";
+}
+
+.bi-award::before {
+  content: "\f154";
+}
+
+.bi-bag-check::before {
+  content: "\f171";
+}
+
+.bi-brightness-high::before {
+  content: "\f1d2";
+}
+
+.bi-calendar-check::before {
+  content: "\f1e2";
+}
+
+.bi-calendar-event::before {
+  content: "\f1e8";
+}
+
+.bi-calendar2-check::before {
+  content: "\f1f8";
+}
+
+.bi-check-circle-fill::before {
+  content: "\f26a";
+}
+
+.bi-check-circle::before {
+  content: "\f26b";
+}
+
+.bi-check2-circle::before {
+  content: "\f270";
+}
+
+.bi-circle-fill::before {
+  content: "\f287";
+}
+
+.bi-clock::before {
+  content: "\f293";
+}
+
+.bi-dot::before {
+  content: "\f309";
+}
+
+.bi-droplet::before {
+  content: "\f30d";
+}
+
+.bi-emoji-smile::before {
+  content: "\f327";
+}
+
+.bi-envelope::before {
+  content: "\f32f";
+}
+
+.bi-eye::before {
+  content: "\f341";
+}
+
+.bi-facebook::before {
+  content: "\f344";
+}
+
+.bi-geo-alt::before {
+  content: "\f3e8";
+}
+
+.bi-heart::before {
+  content: "\f417";
+}
+
+.bi-instagram::before {
+  content: "\f437";
+}
+
+.bi-journal-check::before {
+  content: "\f43e";
+}
+
+.bi-linkedin::before {
+  content: "\f472";
+}
+
+.bi-list::before {
+  content: "\f479";
+}
+
+.bi-patch-check::before {
+  content: "\f4b6";
+}
+
+.bi-person-fill::before {
+  content: "\f4da";
+}
+
+.bi-shield-check::before {
+  content: "\f52f";
+}
+
+.bi-star-fill::before {
+  content: "\f586";
+}
+
+.bi-star-half::before {
+  content: "\f587";
+}
+
+.bi-star::before {
+  content: "\f588";
+}
+
+.bi-stars::before {
+  content: "\f589";
+}
+
+.bi-stopwatch::before {
+  content: "\f597";
+}
+
+.bi-telephone-fill::before {
+  content: "\f5b4";
+}
+
+.bi-telephone::before {
+  content: "\f5c1";
+}
+
+.bi-twitter::before {
+  content: "\f5ef";
+}
+
+.bi-youtube::before {
+  content: "\f62b";
+}
+
+.bi-activity::before {
+  content: "\f66b";
+}
+
+.bi-mortarboard::before {
+  content: "\f6fe";
+}
+
+.bi-twitter-x::before {
+  content: "\f8db";
+}
+

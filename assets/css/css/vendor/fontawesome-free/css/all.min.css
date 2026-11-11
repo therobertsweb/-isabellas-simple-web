@@ -1,0 +1,174 @@
+/* !
+ * Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * Copyright 2025 Fonticons, Inc. */
+
+.fa, .fa-brands, .fa-classic, .fa-regular, .fa-solid, .fab, .far, .fas {
+  --_fa-family: var(--fa-family,var(--fa-style-family,"Font Awesome 7 Free"));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: var(--fa-display,inline-block);
+  font-family: var(--_fa-family);
+  font-feature-settings: normal;
+  font-style: normal;
+  font-synthesis: none;
+  font-variant: normal;
+  font-weight: var(--fa-style,900);
+  line-height: 1;
+  text-align: center;
+  text-rendering: auto;
+  width: var(--fa-width,1.25em);
+}
+
+:is(.fas, .far, .fab, .fa-solid, .fa-regular, .fa-brands, .fa-classic, .fa):before {
+  content: var(--fa);
+  content: var(--fa)/"";
+}
+
+.fa-cog, .fa-gear {
+  --fa: "\f013";
+}
+
+.fa-arrows-rotate, .fa-refresh, .fa-sync {
+  --fa: "\f021";
+}
+
+.fa-check-circle, .fa-circle-check {
+  --fa: "\f058";
+}
+
+.fa-crosshairs {
+  --fa: "\f05b";
+}
+
+.fa-arrow-right {
+  --fa: "\f061";
+}
+
+.fa-trophy {
+  --fa: "\f091";
+}
+
+.fa-phone {
+  --fa: "\f095";
+}
+
+.fa-credit-card, .fa-credit-card-alt {
+  --fa: "\f09d";
+}
+
+.fa-flask {
+  --fa: "\f0c3";
+}
+
+.fa-magic, .fa-wand-magic {
+  --fa: "\f0d0";
+}
+
+.fa-bolt, .fa-zap {
+  --fa: "\f0e7";
+}
+
+.fa-lightbulb {
+  --fa: "\f0eb";
+}
+
+.fa-user-doctor, .fa-user-md {
+  --fa: "\f0f0";
+}
+
+.fa-female, .fa-person-dress {
+  --fa: "\f182";
+}
+
+.fa-sun {
+  --fa: "\f185";
+}
+
+.fa-recycle {
+  --fa: "\f1b8";
+}
+
+.fa-street-view {
+  --fa: "\f21d";
+}
+
+.fa-calendar-check {
+  --fa: "\f274";
+}
+
+.fa-gem {
+  --fa: "\f3a5";
+}
+
+.fa-syringe {
+  --fa: "\f48e";
+}
+
+.fa-glasses {
+  --fa: "\f530";
+}
+
+.fa-person-walking, .fa-walking {
+  --fa: "\f554";
+}
+
+.fa-fish {
+  --fa: "\f578";
+}
+
+.fa-face-grin-stars, .fa-grin-stars {
+  --fa: "\f587";
+}
+
+.fa-headset {
+  --fa: "\f590";
+}
+
+.fa-face-kiss, .fa-kiss {
+  --fa: "\f596";
+}
+
+.fa-umbrella-beach {
+  --fa: "\f5ca";
+}
+
+.fa-microscope {
+  --fa: "\f610";
+}
+
+.fa-phone-alt, .fa-phone-flip {
+  --fa: "\f879";
+}
+
+:host, :root {
+  --fa-family-brands: "Font Awesome 7 Brands";
+  --fa-font-brands: normal 400 1em/1 var(--fa-family-brands);
+}
+
+:host, :root {
+  --fa-font-regular: normal 400 1em/1 var(--fa-family-classic);
+}
+
+.far {
+  --fa-family: var(--fa-family-classic);
+}
+
+.fa-regular, .far {
+  --fa-style: 400;
+}
+
+:host, :root {
+  --fa-family-classic: "Font Awesome 7 Free";
+  --fa-font-solid: normal 900 1em/1 var(--fa-family-classic);
+  --fa-style-family-classic: var(--fa-family-classic);
+}
+
+.fas {
+  --fa-style: 900;
+}
+
+.fa-classic, .fas {
+  --fa-family: var(--fa-family-classic);
+}
+

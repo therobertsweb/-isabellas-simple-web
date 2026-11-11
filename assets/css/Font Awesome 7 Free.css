@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Font Awesome 7 Free';
+	src: url(../../assets/fonts/Font%20Awesome%207%20Free-493e89c79223d234c6c632262f78ee7b.woff2) format('woff2');
+	font-weight: 400;
+	font-style: normal;
+	font-display: block;
+}
+
+@font-face {
+	font-family: 'Font Awesome 7 Free';
+	src: url(../../assets/fonts/Font%20Awesome%207%20Free-f3c7cbceaa8b104b30ce04be80c8fb48.woff2) format('woff2');
+	font-weight: 900;
+	font-style: normal;
+	font-display: block;
+}
